@@ -74,6 +74,7 @@ The control system sends commands to the steering, accelerator and braking syste
 Step 7: Continuous Monitoring
 
 The sensors continuously collect new data, and the AI repeats the process to respond to changing road and traffic conditions.
+<img width="150" height="112" alt="Screenshot 2026-10-29 085524" src="https://github.com/user-attachments/assets/8842dec1-7f85-442b-97a3-2ae3379d402c" />
 
 ## RESULT
 
